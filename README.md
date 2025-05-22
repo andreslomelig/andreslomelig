@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Huawei
+- 🔭 I’m currently working on Oracle
 - 🌱 I’m currently learning algorthms, Gpu Computing and AI
 - 💬 Ask me about Competitive  Programming 
 - 📫 How to reach me: andreslomeli02@gmail.com
