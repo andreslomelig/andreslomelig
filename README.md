@@ -28,16 +28,6 @@ I'm a developer who loves to tackle complex problems through elegant and efficie
 
 ---
 
-### Currently Exploring
-
-- Advanced Algorithm Design  
-- Parallel Programming with CUDA  
-- Artificial Intelligence & Machine Learning  
-- Kernel/OS Internals & Low-Level Programming  
-- eBPF, pfb & ATools
-
----
-
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreslomelig/)
