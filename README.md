@@ -11,13 +11,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a developer who loves to tackle complex problems through elegant and efficient code. Whether it’s designing scalable systems or optimizing algorithms for speed, I’m always up for a challenge.  
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -28,7 +28,7 @@ I'm a developer who loves to tackle complex problems through elegant and efficie
 
 ---
 
-### 🧠 Currently Exploring
+### Currently Exploring
 
 - Advanced Algorithm Design  
 - Parallel Programming with CUDA  
@@ -38,15 +38,7 @@ I'm a developer who loves to tackle complex problems through elegant and efficie
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreslomelig&show_icons=true&theme=tokyonight" alt="Andrés's GitHub stats" />
-</p>
-
----
-
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreslomelig/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreslomeli02@gmail.com)
