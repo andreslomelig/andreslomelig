@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Andrés Lomelí 👋</h1>
 
 <p align="center">
-  🔭 Currently working at <strong>Oracle</strong> <br>
+  🔭 Currently working at <strong>Microsoft</strong> <br>
   🌱 Learning <strong>Algorithms</strong>, <strong>GPU Computing</strong>, <strong>AI</strong> <br>
   🧠 Exploring <strong>Kernel/OS development</strong>, <strong>eBPF</strong>, <strong>pfb</strong> & <strong>ATools</strong> <br>
   💬 Passionate about <strong>Competitive Programming</strong> <br>
