@@ -1,38 +1,26 @@
-<h1 align="center">Hi there, I'm Andrés Lomelí 👋</h1>
+# Andrés Lomelí
 
-<p align="center">
-  Currently working at <strong>Microsoft</strong> <br>
-  Learning <strong>Algorithms</strong>, <strong>GPU Computing</strong>, <strong>AI</strong> <br>
-  Exploring <strong>Kernel/OS development</strong>, <strong>eBPF</strong>, <strong>pfb</strong> & <strong>ATools</strong> <br>
-  Passionate about <strong>Competitive Programming</strong> <br>
-  Reach me at: <a href="mailto:andreslomeli02@gmail.com">andreslomeli02@gmail.com</a> <br>
-  Fun Fact: Huge <strong>49ers</strong> fan 🏈
-</p>
+Software engineer focused on systems and GPU computing.  
+ICPC World Finalist · B.S. in Artificial Intelligence, expected December 2026 · Mexico
 
----
+## Experience
 
-### About Me
+- **Microsoft — Software Engineering Intern:** working in the M365 machine learning group.
+- **Oracle — Software Engineering Intern:** built an eBPF fault-injection framework for storage resiliency testing and resolved two defects in ADVM.
+- **Huawei — Research Intern:** implemented GPU primitives, including prefix sums and radix sort, across CUDA, Vulkan, and OpenCL for cross-vendor execution.
 
-I'm a developer who loves to tackle complex problems through elegant and efficient code. Whether it’s designing scalable systems or optimizing algorithms for speed, I’m always up for a challenge.  
+## Technical Interests
 
----
+GPU computing, Linux systems, performance engineering, and AI infrastructure.
 
-### Technologies & Tools
+My experience includes C++, Python, Linux, eBPF, CUDA, Vulkan, OpenCL, and GPU synchronization.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![eBPF](https://img.shields.io/badge/eBPF-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Currently Learning
 
----
+Real-time graphics fundamentals and Metal, working toward a small renderer with a focus on correctness, resource management, and performance.
 
-### Let's Connect
+## Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreslomelig/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreslomeli02@gmail.com)
+Graduating in December 2026 and seeking new-grad software engineering roles, especially in systems, GPU computing, and AI infrastructure.
 
----
-
-> "Stay curious. Keep building. Never stop learning."
+[LinkedIn](https://www.linkedin.com/in/andreslomelig/) · [Email](mailto:andreslomeli02@gmail.com)
